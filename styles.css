@@ -161,7 +161,7 @@
     width: 300px;
     /* background-color: aqua; */
     overflow: hidden;
-    border: 1px solid gray;
+    border: 1px solid rgb(19, 14, 14);
     /* Animations not working */
     transition: all 0.4s ease;
 }
